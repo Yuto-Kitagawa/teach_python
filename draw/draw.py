@@ -1,3 +1,5 @@
+# 線を書くプログラム
+
 import turtle
 import colorsys
 
